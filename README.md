@@ -9,3 +9,10 @@
 
 [Identification of QTLs and a Candidate Gene for Reducing pre-Harvest Sprouting in Aegilops tauschii–Triticum aestivum Chromosome Segment Substitution Lines](ijms-22-03729-v2.pdf)
 
+[Analysis of Varietal Differences in Pre-harvest Sprouting of Rice using RNA-Sequencing](https://www.cropbio.or.kr/articles/article/DG4Q/)
+
+[The rice (Oryza sativa) Rc gene improves resistance to preharvest sprouting and retains seed and milled rice quality](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12848)
+
+[QTL mapping for pre-harvest sprouting resistance in japonica rice varieties utilizing genome re-sequencing](https://link.springer.com/article/10.1007/s00438-020-01688-4)
+
+[Pre-Harvest Sprouting Variation of Rice Seeds Located on Each Panicle Position According to Grain Filling Days](http://koreascience.or.kr/article/JAKO201416760764267.page)
