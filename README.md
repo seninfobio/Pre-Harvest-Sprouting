@@ -1,5 +1,14 @@
 # Pre-Harvest-Sprouting
 
+* Resources of parental lines
+* Breeding materials/RILs
+* Resequencing/genotyping by sequencing
+* Transcriptomics approach
+* GWAS
+* Genome wide identification of candidat genes
+* Functional Validation
+* Future prospects
+
 [MDPI Special Issue "Regulation of Seed Germination and Dormancy"](https://www.mdpi.com/journal/plants/special_issues/seed_germination_dormancy)
 
 # References
