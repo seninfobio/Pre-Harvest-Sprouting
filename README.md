@@ -1,3 +1,16 @@
+Regulation of Seed Dormancy and Pre-Harvest Sprouting in Rice – An Updated Overview
+
+1.	Abstract (All)
+2.	Introduction (Shilpha)
+3.	Hormone balance in the seed dormancy and germination (Pandian)
+4.	Pre-harvest sprouting in rice (Shilpha)
+5.	Environmental, physiological and biochemical characteristics influencing the pre-harvest sprouting (Pandian)
+6.	Transcriptomic approaches for the identification of genes responsible for the pre-harvest sprouting (Senthil and Yedomon)
+7.	Controlling pre-harvest sprouting through functional genomic approaches (Senthil and Yedomon)
+8.	Conclusion and Future perspectives (All)
+9.	References
+
+
 # Pre-Harvest-Sprouting
 
 * Resources of parental lines
